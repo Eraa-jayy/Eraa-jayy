@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eranda Jayawardana</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">💻 Computer Science undergraduate interested in Software Development and Project Management, with experience in Java, PHP and React focused on building scalable and efficient applications.
+</h3>
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
