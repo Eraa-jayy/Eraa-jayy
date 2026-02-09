@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eranda Jayawardana</h1>
+<h1 align="center">Hi, I'm Eranda Jayawardana</h1>
 <h3 align="center">💻 Computer Science undergraduate interested in Software Development and Project Management, with experience in Java, PHP and React focused on building scalable and efficient applications.
 </h3>
 
