@@ -44,16 +44,18 @@
 ---
 
 ## 🚀 What I'm Working On
-- 🏥 Hospital Management System  
-- 🌐 Full-stack web applications using React & Spring Boot  
+- 🏥 Personal Healthcare Monitoring System - Healthify  
+- 🌐 Text - to - Speech Conveerter  
 - 📈 Improving project workflows with Agile tools  
 
 ---
 
 ## 🎯 Goals
-- Become a **Software Engineer with strong leadership skills**
-- Master **AI + Full Stack Development**
-- Lead and deliver impactful tech projects  
+- Grow into a **Tech Project Manager who leads with clarity and impact**
+- Deliver **scalable software projects on time and with quality**
+- Master **Agile methodologies (Scrum, Kanban)**
+- Align **technical execution with business strategy**
+- Continuously improve **team productivity and workflow efficiency**
 
 ---
 
@@ -63,8 +65,8 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: (Add your email)
+- 💼 LinkedIn: (https://www.linkedin.com/in/eraa-jayy/)
+- 📧 Email: eraajayy25@gmail.com
 
 ---
 
