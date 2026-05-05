@@ -45,7 +45,7 @@
 
 ## 🚀 What I'm Working On
 - 🏥 Personal Healthcare Monitoring System - Healthify  
-- 🌐 Text - to - Speech Conveerter  
+- 🌐 Text - to - Speech Converter  
 - 📈 Improving project workflows with Agile tools  
 
 ---
