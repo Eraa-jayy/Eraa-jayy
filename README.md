@@ -101,9 +101,8 @@
 ## 🌐 Text-to-Speech Converter
 🔹 AI-powered text conversion system with voice synthesis features.
 
-## 📋 Hospital Management System
-🔹 Full-stack hospital workflow management platform with project planning integration.
-
+## 📋 Smart Attendance Tracking System
+🔹A smart platform for automated attendance tracking using technologies like face recognition with real-time monitoring and analytics.
 ---
 
 # 📌 Current Focus
