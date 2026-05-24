@@ -52,13 +52,13 @@
 ## ⚙️ Backend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,mongodb" />
 </p>
 
 ## 🛠 Tools & Project Management
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,trello,jira,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,trello,jira" />
 </p>
 
 ---
