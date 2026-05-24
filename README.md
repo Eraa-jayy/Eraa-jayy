@@ -102,7 +102,8 @@
 🔹 AI-powered text conversion system with voice synthesis features.
 
 ## 📋 Smart Attendance Tracking System
-🔹A smart platform for automated attendance tracking using technologies like face recognition with real-time monitoring and analytics.
+🔹 A smart platform for automated attendance tracking using technologies like face recognition with real-time monitoring and analytics.
+
 ---
 
 # 📌 Current Focus
@@ -141,14 +142,6 @@ Goals:
   <a href="https://github.com/eraa-jayy">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
-</p>
-
----
-
-# 🎵 Spotify Playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxxxxxxxxxx&cover_image=true&theme=novatorem"/>
 </p>
 
 ---
