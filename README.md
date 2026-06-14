@@ -156,7 +156,7 @@ Artificial Intelligence █████████░░░░░░░░░ 4
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Eraa-jayy/YEraa-jayy/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Eraa-jayy/Eraa-jayy/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
