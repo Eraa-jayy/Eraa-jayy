@@ -153,13 +153,6 @@ Artificial Intelligence █████████░░░░░░░░░ 4
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Eraa-jayy/Eraa-jayy/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
 
 <h3 align="center">
 💡 "Great software is built one commit at a time."
