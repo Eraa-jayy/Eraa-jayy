@@ -1,114 +1,84 @@
-<h1 align="center">Hi 👋, I'm Eranda Jayawardhana</h1>
-<h3 align="center">Aspiring Software Engineer </h3>
+# Hi there, I'm ERANDA JAYAWARDANA 👋
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Software+Developer+%26+Project+Manager;Passionate+About+Clean+Architecture;Always+Learning+New+Technologies;Future+Tech+Leader+🚀" 
-      alt="Typing SVG" 
-    />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eraa-jayy&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/eraa-jayy?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/eraa-jayy?affiliations=OWNER&style=for-the-badge&color=yellow" />
-</p>
-
----
-
-## 💫 About Me
-
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-- 💻 Passionate about **Software Engineering & Clean Architecture**
-- 🚀 Specialized in building modern, scalable, and user-centric web applications
-- 📈 Strong foundation in **Agile Workflows & Technical Project Management**
-- 🧠 Believer in writing maintainable, well-documented, and testable code
-- 🌱 **Currently expanding my toolkit in:**
-  - Enterprise Java & Spring Boot Core
-  - Next.js & Server-Side Rendering
-  - System Design & Distributed Cloud Architecture
-  - Integrating AI Models into Full-Stack Apps
-
----
-
-## ⚡ Tech Stack
-
-### 👨‍💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,php,cs,python" alt="Languages" />
+  <img src="https://img.shields.io/badge/Role-Aspiring%20Technical%20Project%20Manager-blue?style=for-the-badge&labelColor=1a1a2e" alt="Role">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Architecture-brightgreen?style=for-the-badge&labelColor=1a1a2e" alt="Focus">
 </p>
+
+### 🚀 About Me
+
+I am a Computer Science undergraduate driven by a passion for scalable system design, clean code, and efficient development lifecycles. I love bridging the gap between technical execution and structured project management to deliver high-impact software.
+
+- 🔭 **Current Focus:** Architecting robust, full-stack web applications using MVC and Clean Layered Architecture.
+- 🌱 **Methodologies:** Deeply interested in Agile/Scrum frameworks, SDLC coordination, and team collaboration.
+- 💬 **Ask Me About:** React ecosystems, Spring Boot backends, and decoupled system design.
+- ✉️ **Reach Out:** [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 ### 🌐 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend" />
-</p>
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### ⚙️ Backend & Databases
+![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🧰 Management & DevOps
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📁 Featured Projects
+
+### 🛍️ Trendor | Men's Clothing E-Commerce System
+> **A secure, full-stack e-commerce solution emphasizing secure access and modular backend workflows.**
+* Designed a decoupled, clean layered architecture backend utilizing **Spring Boot** and **MySQL**.
+* Secured end-to-end user transactions and sessions implementing **JWT-based authentication**.
+* **Stack:** `React` `Spring Boot` `MySQL` `JWT` `TailwindCSS`
+* 🔗 [GitHub Repository](https://github.com/YOUR_USERNAME/trendor)
+
+### 🏥 Healthify | Personal Healthcare Monitoring System
+> **A robust healthcare platform engineered with strict modularity for tracking vital metrics.**
+* Implemented a structured **3-Tier Architecture** to ensure clean separation of concerns, scalability, and maintainability.
+* Formulated seamless frontend dashboard states and integrated complex state management using **Redux**.
+* **Stack:** `React` `Redux` `Spring Boot` `MySQL`
+* 🔗 [GitHub Repository](https://github.com/YOUR_USERNAME/healthify)
+
+---
+
+## 📊 Performance & Git Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,mongodb" alt="Backend" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
-
-### 🛠 Tools & Project Management
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,trello,jira" alt="Tools" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🏥 Healthify – Personal Healthcare Monitoring System
-> A comprehensive platform engineered to securely track health metrics, vital records, and patient wellness trends over time.
-*   **Tech Stack:** `Java` | `Spring Boot` | `React` | `MySQL`
-*   ➡️ [View Repository](https://github.com/eraa-jayy)
-
-### 📋 Smart Attendance Tracking System
-> An automated enterprise-grade solution that uses facial recognition and real-time data analytics to streamline workplace attendance management.
-*   **Tech Stack:** `Python` | `Node.js` | `MongoDB` | `OpenCV`
-*   ➡️ [View Repository](https://github.com/eraa-jayy)
-
-### 🌐 Text-to-Speech Converter
-> An AI-integrated utility featuring precise voice synthesis and multi-dialect text conversion mechanics.
-*   **Tech Stack:** `Next.js` | `TypeScript` | `Tailwind CSS` | `Web Speech API`
-*   ➡️ [View Repository](https://github.com/eraa-jayy)
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eraa-jayy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraa-jayy&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=eraa-jayy&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-</p>
-
-### 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eraa-jayy&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eraa-jayy&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
-
----
-
-## 📌 Development Philosophy
-
-```yaml
-Focus Areas:
-  - Scalability & High Availability
-  - Clean Code & SOLID Principles
-  - Cross-functional Team Leadership
-
-Currently Architecting:
-  - Responsive Full-Stack Solutions
-  - Cloud-Native Infrastructure
-  - Automation Workflows
