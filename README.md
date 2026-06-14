@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eranda Jayawardhana</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h3 align="center">Aspiring Software Engineer | Tech Lead & Project Manager in the Making</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -18,152 +18,97 @@
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 💻 Passionate about **Software Engineering & Project Management**
-- 🚀 Building **modern, scalable, and user-focused applications**
-- 📈 Interested in **AI, Full-Stack Development, and Agile Workflows**
-- 🧠 Strong focus on **clean architecture & maintainable code**
-- 🎯 Goal: Become a **Technical Project Manager & Tech Leader**
-- 🌱 Currently learning:
-  - Advanced **Java & Spring Boot**
-  - **Next.js** Ecosystem
-  - **Cloud & System Design**
-  - **AI-powered applications**
+- 💻 Passionate about **Software Engineering & Clean Architecture**
+- 🚀 Specialized in building modern, scalable, and user-centric web applications
+- 📈 Strong foundation in **Agile Workflows & Technical Project Management**
+- 🧠 Believer in writing maintainable, well-documented, and testable code
+- 🌱 **Currently expanding my toolkit in:**
+  - Enterprise Java & Spring Boot Core
+  - Next.js & Server-Side Rendering
+  - System Design & Distributed Cloud Architecture
+  - Integrating AI Models into Full-Stack Apps
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
-## 👨‍💻 Languages
-
+### 👨‍💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,php,cs,python" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,php,cs,python" alt="Languages" />
 </p>
 
-## 🌐 Frontend Development
-
+### 🌐 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend" />
 </p>
 
-## ⚙️ Backend Development
-
+### ⚙️ Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,mongodb" alt="Backend" />
 </p>
 
-## 🛠 Tools & Project Management
-
+### 🛠 Tools & Project Management
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,trello,jira" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,trello,jira" alt="Tools" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 🚀 Featured Projects
+
+### 🏥 Healthify – Personal Healthcare Monitoring System
+> A comprehensive platform engineered to securely track health metrics, vital records, and patient wellness trends over time.
+*   **Tech Stack:** `Java` | `Spring Boot` | `React` | `MySQL`
+*   ➡️ [View Repository](https://github.com/eraa-jayy)
+
+### 📋 Smart Attendance Tracking System
+> An automated enterprise-grade solution that uses facial recognition and real-time data analytics to streamline workplace attendance management.
+*   **Tech Stack:** `Python` | `Node.js` | `MongoDB` | `OpenCV`
+*   ➡️ [View Repository](https://github.com/eraa-jayy)
+
+### 🌐 Text-to-Speech Converter
+> An AI-integrated utility featuring precise voice synthesis and multi-dialect text conversion mechanics.
+*   **Tech Stack:** `Next.js` | `TypeScript` | `Tailwind CSS` | `Web Speech API`
+*   ➡️ [View Repository](https://github.com/eraa-jayy)
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eraa-jayy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraa-jayy&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eraa-jayy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraa-jayy&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=eraa-jayy&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=eraa-jayy&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 </p>
 
----
-
-# 📈 Contribution Graph
-
+### 🏆 Trophies
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eraa-jayy&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=eraa-jayy&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
+### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eraa-jayy&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eraa-jayy&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
-
-## 🏥 Healthify – Personal Healthcare Monitoring System
-🔹 Smart healthcare monitoring platform for tracking health records and wellness.
-
-## 🌐 Text-to-Speech Converter
-🔹 AI-powered text conversion system with voice synthesis features.
-
-## 📋 Smart Attendance Tracking System
-🔹 A smart platform for automated attendance tracking using technologies like face recognition with real-time monitoring and analytics.
-
----
-
-# 📌 Current Focus
+## 📌 Development Philosophy
 
 ```yaml
-Learning:
-  - System Design
-  - Cloud Technologies
-  - AI Engineering
-  - Agile Leadership
+Focus Areas:
+  - Scalability & High Availability
+  - Clean Code & SOLID Principles
+  - Cross-functional Team Leadership
 
-Building:
-  - Full Stack Applications
-  - AI Tools
-  - Productivity Systems
-
-Goals:
-  - Become a Tech Lead
-  - Build impactful products
-  - Improve leadership skills
-```
-
----
-
-# 🌍 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/eraa-jayy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-
-  <a href="mailto:eraajayy25@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-  </a>
-
-  <a href="https://github.com/eraa-jayy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# ☕ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourname">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"/>
-  </a>
-</p>
-
----
-
-<h3 align="center">
-⭐ "Code Smart. Lead Better. Build The Future." ⭐
-</h3>
+Currently Architecting:
+  - Responsive Full-Stack Solutions
+  - Cloud-Native Infrastructure
+  - Automation Workflows
