@@ -1,6 +1,6 @@
 # <h1 align="center">Hi 👋, I'm Eranda Jayawardhana</h1>
 
-<h3 align="center">Aspiring Software Engineer | Computer Science Student | Future Tech Lead</h3>
+<h3 align="center">Aspiring Software Engineer | Future Tech Lead</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Computer+Science+Student;Passionate+About+Software+Development;Exploring+AI+%26+Modern+Technologies;Building+Solutions+That+Matter" alt="Typing SVG" />
@@ -10,11 +10,8 @@
 
 ## 🚀 About Me
 
-* 🎓 Computer Science Student
-* 💻 Focused on **Software Engineering**
-* 🌱 Currently learning **Java, PHP, React, Flutter & AI**
+* 🎓 Computer Science Undergraduate
 * 🚀 Interested in Full-Stack Development
-* 👨‍💼 Project Manager for a Hospital Management System
 * 🎯 Goal: Become a Professional Software Engineer and Technical Leader
 
 ---
