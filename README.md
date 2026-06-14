@@ -1,9 +1,9 @@
 # <h1 align="center">Hi 👋, I'm Eranda Jayawardhana</h1>
 
-<h3 align="center">Aspiring Software Engineer | Future Tech Lead</h3>
+<h3 align="center">Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Computer+Science+Student;Passionate+About+Software+Development;Exploring+AI+%26+Modern+Technologies;Building+Solutions+That+Matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Computer+Science+Undergraduate;Passionate+About+Agile+Software+Development;Exploring+AI+%26+Modern+Technologies;Building+Solutions+That+Matter" alt="Typing SVG" />
 </p>
 
 ---
@@ -35,8 +35,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eraa-jayy&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eraa-jayy&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eraa-jayy&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -60,19 +60,63 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Eraa-jayy&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
-| Project                       | Description                                       |
-| ----------------------------- | ------------------------------------------------- |
-| 🏥 Hospital Management System | Complete healthcare management platform using PHP |
-| 🚌 Bus Management System      | Fleet tracking and transport management solution  |
-| 🌊 Ocean-Themed Desktop App   | Educational desktop application                   |
-| 🎡 Decision Spinner App       | Interactive Flutter application                   |
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 Healthify
+**Personal Healthcare Monitoring System**
+
+🔹 Built with **React, Java & Spring Boot** 
+🔹 Secure patient management and health tracking  
+🔹 Modern responsive user interface
+
+</td>
+
+<td width="50%">
+
+### 🚌 RouteLanka
+**Transport Management System**
+
+🔹 Built with **React, Java & Spring Boot**  
+🔹 Fleet and route management  
+🔹 Real-time transport operations dashboard  
+🔹 User-friendly management interface
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎓 Smart Attendance Tracking System
+
+🔹 Built with **Python Face Recognition API & React**  
+🔹 Automated attendance marking  
+🔹 Facial recognition-based authentication  
+🔹 Attendance reporting and analytics
+
+</td>
+
+<td width="50%">
+
+### 🔊 Text-to-Speech Converter
+
+🔹 Built with **React & Web Speech API**  
+🔹 Converts text into natural-sounding speech  
+🔹 Supports multiple voices and languages  
+🔹 Clean and intuitive user experience
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -83,7 +127,7 @@ Software Engineering    ███████████████░░░ 8
 Java Development        ██████████████░░░░ 80%
 React Development       █████████████░░░░░ 75%
 Flutter Development     ███████████░░░░░░░ 65%
-Artificial Intelligence █████████░░░░░░░░░ 55%
+Artificial Intelligence █████████░░░░░░░░░ 45%
 ```
 
 ---
@@ -91,10 +135,10 @@ Artificial Intelligence █████████░░░░░░░░░ 5
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/raa-jayy">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/eraa-jayy">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
@@ -104,7 +148,7 @@ Artificial Intelligence █████████░░░░░░░░░ 5
 ## 👀 Profile Views
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Eraa-jayy&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -112,7 +156,7 @@ Artificial Intelligence █████████░░░░░░░░░ 5
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Eraa-jayy/YEraa-jayy/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
