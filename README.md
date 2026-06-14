@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eranda Jayawardhana</h1>
-<h3 align="center">Aspiring Software Engineer | Tech Lead & Project Manager in the Making</h3>
+<h3 align="center">Aspiring Software Engineer </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
