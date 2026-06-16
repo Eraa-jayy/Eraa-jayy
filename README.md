@@ -127,7 +127,7 @@ Software Engineering    ███████████████░░░ 8
 Java Development        ██████████████░░░░ 80%
 React Development       █████████████░░░░░ 75%
 Flutter Development     ███████████░░░░░░░ 65%
-Artificial Intelligence █████████░░░░░░░░░ 45%
+Artificial Intelligence █████████░░░░░░░░░ 55%
 ```
 
 ---
