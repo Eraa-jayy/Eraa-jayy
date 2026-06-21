@@ -24,7 +24,7 @@
 <img src="https://skillicons.dev/icons?i=java,php,cs,js,html,css" />
 </p>
 
-### Frameworks & Tools
+### Tools & Frameworks
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,bootstrap,tailwind,mysql,git,github,vscode,figma" />
