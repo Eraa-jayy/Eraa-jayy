@@ -12,7 +12,7 @@
 
 * 🎓 Computer Science Undergraduate
 * 🚀 Interested in Full-Stack Development
-* 🎯 Goal: Become a Professional Software Engineer and Technical Leader
+* 🎯 Goal: Become a Professional Software Engineer and Tech Lead
 
 ---
 
